@@ -84,6 +84,6 @@ void drawText()
 	fill(0, 0, 255);
     textAlign(CENTER);
     textSize(60);
-    text("Click Me!", xCanvas/2, yCanvas/2 - 150);
+    text("Cookiiiieesssssss!", xCanvas/2, yCanvas/2 - 150);
 }
 
